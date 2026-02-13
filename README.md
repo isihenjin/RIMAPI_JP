@@ -1,0 +1,2 @@
+# RIMAPI_JP
+RIMAPI日本語解説Wiki
